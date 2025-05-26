@@ -1,4 +1,6 @@
 # Ai-pitstop-model
+
+check branch 1 latest patch
 🏎️ F1 Pit Strategy Predictor – ML + Deep Learning on Apple Silicon
 
 This project predicts tire wear, pit stop chances, and tire degradation in Formula 1 races using both traditional machine learning models and a neural network optimized for Apple’s Metal backend (M1/M2).
